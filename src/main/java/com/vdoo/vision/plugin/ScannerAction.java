@@ -3,7 +3,6 @@ package com.vdoo.vision.plugin;
 import java.io.*;
 import java.net.URL;
 import java.util.Map;
-import java.util.List;
 import java.util.Scanner;
 import java.util.stream.Stream;
 import java.net.HttpURLConnection;
